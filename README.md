@@ -18,3 +18,5 @@ If just the Audio Board and si5351 are installed then you should see:
 14:27:19.839 -> Scanning Wire2 ...
 14:27:19.839 -> No I2C devices found
 ```
+
+The Audio board is at address 0x0A and the si5351 at 0x60.
